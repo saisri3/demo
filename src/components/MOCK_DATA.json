@@ -1,0 +1,67 @@
+[
+    {
+        "title":"Star Wars:Episode Vill",
+        "year":2017,
+        "rating":"PG-13",
+        "image":"./images/starwars.jpeg",
+        "duration":"2h31m"
+
+    },
+
+    {
+        "title":"Hardcore",
+        "year":2016,
+        "rating":"PG-13",
+        "image":"./images/theguardian",
+        "duration":"1h36m"
+
+    },
+
+    {
+        "title":"TheCrown",
+        "year":2017,
+        "rating":"TV-MA",
+        "image":"./images/thecrown",
+        "duration":"2Seasons"
+
+    },
+
+    {
+        "title":"SetitUp",
+        "year":2018,
+        "rating":"TV-14",
+        "image":"./images/thecrown",        
+        "duration":"1h45m"
+
+    },
+
+    {
+        "title":"The Sinner",
+        "year":2017,
+        "rating":"TV-MA",
+        "image":"./images/thesinner",
+        
+        "duration":"1h45m"
+
+    },
+
+    {
+        "title":"The Dark Knight",
+        "year":2008,
+        "rating":"PG-13",
+        "image":"./images/thecrown",        
+        "duration":"2h32m"
+
+    },
+
+    {
+        "title":"Mamma Mial",
+        "year":2008,
+        "rating":"PG-13",
+        "image":"./images/thecrown",
+        "duration":"1h45m"
+
+    }
+
+    
+]

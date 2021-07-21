@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  
+}
+
+h1 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  width: 50%;
+        position: relative;
+        z-index: 99;
+        margin: 0 auto;
+        padding: 20px;
+       
+  
+}
+.col-container {
+  border: white;
+  border-style: solid;
+  border-width: 0.2px;
+  border-radius: 8px;
+  padding-right: 85%;
+  grid-template-rows: 200px 200px;
+}
+.col {
+  display: table-cell;
+  padding: 16px;
+}
+
+.images{
+    padding: 20%;
+
+}
